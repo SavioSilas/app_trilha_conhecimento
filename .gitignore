@@ -22,3 +22,5 @@ app/build/
 captures/
 .cxx/
 *.log
+app/src/google-services.json
+
